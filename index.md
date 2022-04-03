@@ -1,5 +1,4 @@
-<object data="https://mrmirg.github.io/CV.pdf" type="application/pdf" width="1000px" height="900px">
-    <embed src="https://mrmirg.github.io/CV.pdf">
-        <p><a href="https://mrmirg.github.io/CV.pdf">My CV is currently PDF-only! Click here if your browser does not open it.</a></p>
-    </embed>
-</object>
+Welcome to my github page!
+
+Not much here yet, but there is a [current PDF version of my CV](https://mrmirg.github.io/CV.pdf).
+
